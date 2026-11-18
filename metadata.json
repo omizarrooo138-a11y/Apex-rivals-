@@ -1,0 +1,6 @@
+{
+  "name": "PolySprint",
+  "description": "Offline-ready 3D low-poly time-trial racing game with ghost replays, medal targets, and a modular track builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
